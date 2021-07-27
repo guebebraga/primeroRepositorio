@@ -12,4 +12,6 @@ hola
 
 # El comando git push te permite subir los commits desde tu rama (branch) local en tu repositorio git local al repositorio remoto.
 git push
+
+todo esto se puede hacer en visual studio code
             
